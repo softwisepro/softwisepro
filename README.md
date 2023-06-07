@@ -7,7 +7,6 @@ Am happy being among of the Sofware developers although am still in school but i
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,bootstrap,react,tailwindcss,django,flask,html,css)
 
 ### My contributions on github reflects my Programming Journey
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=softwisepro&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=softwisepro&theme=tokyonight&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
 
-![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=softwisepro&theme=tokyonight&show_icons=true)
