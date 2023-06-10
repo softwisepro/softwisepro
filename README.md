@@ -1,4 +1,4 @@
-![softwisepro CEO's banner by Eric Mwijage](https://github.com/softwisepro/softwisepro/blob/main/md/banner.png)
+![softwisepro CEO's banner by Eric Mwijage at sofwisepro](https://github.com/softwisepro/softwisepro/blob/main/md/banner.png)
 
 ## "Hello there! I'm Eric Mwijage
 
