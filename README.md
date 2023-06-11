@@ -27,3 +27,5 @@ Ok this might sound crazy but i was just learning how to design UI elements usin
 # CURRENTLY AM DOING WHAT?
 Currently am learning  React.js ( @reduxjs/toolkit and redux-react ) packages looking forwward to be an API expert.
 Also am doing django backend with simplejwt and rest_framework
+
+Sun, Jun 11:- Working on another idea which i can not even explain it my self just imagining the structure and functionarities then work on them, but am not failing cause i have made a step so far.
