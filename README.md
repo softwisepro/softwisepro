@@ -1,4 +1,4 @@
-![softwisepro CEO's banner by Eric Mwijage at sofwisepro]([https://github.com/softwisepro/softwisepro/blob/main/md/banner.png](https://www.canva.com/design/DAFlgY1OKWI/7xh4-lQ-43ggLlf93Pe6Fg/edit?utm_content=DAFlgY1OKWI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![softwisepro CEO's banner by Eric Mwijage at sofwisepro](https://github.com/softwisepro/softwisepro/blob/main/md/Blue%203D%20Holographic%20Cyber%20__Monday%20Sale%20Banner.png))
 
 ## "Hello there! I'm Eric Mwijage
 
