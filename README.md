@@ -24,6 +24,9 @@ This is a full stack web portfolio made with Flask as the backend functioning fr
 #### Flask, Tailwind, Jinja2 template and ajax, profesional website for an organizatio ( icookwebs )
 Ok this might sound crazy but i was just learning how to design UI elements using tailwindcss and at last i found myselft working on this simple project, but it has a fully functioning backend with some lose, nevermind it was just a leaarning project but its well done, follow this link to see it your self -----> http://icookwebs.pythonanywhere.com
 
+### React.js template.
+This is just a simple template developed with react technology and framer motions, follow this link to see it your self -------->https://scoopy-portfolio.vercel.app/
+
 # CURRENTLY AM DOING WHAT?
 Currently am learning  React.js ( @reduxjs/toolkit and redux-react ) packages looking forwward to be an API expert.
 Also am doing django backend with simplejwt and rest_framework
