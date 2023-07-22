@@ -10,6 +10,8 @@ My coding journey began in 2021, and since then, I have immersed myself in the e
 
 # MY PROJECTS
 
+#### Programmin Blog 
+----> https://blog.atomatiki.tech
 
 <!-- ![My Skills](https://skillicons.dev/icons?i=py,git,github,bootstrap,react,tailwindcss,django,flask,html,css,postman,php) -->
 #### React Open Media With React and Tailwindcss ( Stuck Open Media )
