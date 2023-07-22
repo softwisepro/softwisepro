@@ -1,6 +1,4 @@
-![softwisepro CEO's banner by Eric Mwijage at sofwisepro](https://github.com/softwisepro/softwisepro/blob/main/md/Blue%203D%20Holographic%20Cyber%20__Monday%20Sale%20Banner.png)
-
-## "Hello there! I'm Eric Mwijage
+## "Hello there! I'm Eric Mwijage ✌✌
 
 
 The proud owner of Softwisepro, a dynamic brand organization specializing in software development and programming. As a passionate web developer, I have honed my skills in various technologies:-
