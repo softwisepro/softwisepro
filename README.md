@@ -2,7 +2,9 @@
 
 ## MY PROJECTS
 
-#### Programmin Blog 
+#### Programming Blog 
+
+Atomatiki blog website, view here
 ----> https://blog.atomatiki.tech
 
 <!-- ![My Skills](https://skillicons.dev/icons?i=py,git,github,bootstrap,react,tailwindcss,django,flask,html,css,postman,php) -->
