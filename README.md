@@ -1,9 +1,6 @@
-## "Hello there! I'm Eric Mwijage ✌✌
+# "Hi there! I'm Eric Mwijage ✌✌
 
-
-The proud owner of Softwisepro, a dynamic brand organization specializing in software development and programming. As a passionate web developer, I have honed my skills in various technologies:-
-
-# MY PROJECTS
+## MY PROJECTS
 
 #### Programmin Blog 
 ----> https://blog.atomatiki.tech
